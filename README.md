@@ -9,7 +9,7 @@
 - 🌱 Currently learning AI, Web Development, and System Design
 - 💡 Interested in AI Applications, Full-Stack Development, and Open Source
 - 🔭 Building practical projects and contributing to GitHub
-- 📫 Reach me: YOUR_EMAIL_HERE
+- 📫 Reach me: bsiddikwala@gmail.com
 
 ---
 
