@@ -57,3 +57,8 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Burhanuddinsiddikwala/Burhanuddinsiddikwala/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
