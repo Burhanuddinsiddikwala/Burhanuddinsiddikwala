@@ -1,52 +1,79 @@
 <h1 align="center">Hi 👋, I'm Burhanuddin Siddikwala</h1>
-<h3 align="center">B.Tech CSE (AI) Student | AI & Full-Stack Developer | Open Source Enthusiast</h3>
+
+<h3 align="center">
+B.Tech CSE (AI) Student | AI & Full-Stack Developer | Open Source Enthusiast
+</h3>
+
+<p align="center">
+Passionate about Artificial Intelligence, Full-Stack Development, Open Source, and building real-world projects.
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (AI)
-- 🌱 Currently learning AI, Web Development, and System Design
-- 💡 Interested in AI Applications, Full-Stack Development, and Open Source
+- 🌱 Currently learning AI, Web Development & System Design
+- 💡 Interested in AI Applications, Full-Stack Development & Open Source
 - 🔭 Building practical projects and contributing to GitHub
-- 📫 Reach me: bsiddikwala@gmail.com
-  
-  <div align="center">
+- 📫 Reach me at **bsiddikwala@gmail.com**
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Burhanuddinsiddikwala&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br>
 
-<br/>
+## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api?username=Burhanuddinsiddikwala&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api/top-langs/?username=Burhanuddinsiddikwala&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
+<img
+src="https://streak-stats.demolab.com?user=Burhanuddinsiddikwala&hide_border=true"
+alt="GitHub Streak"
+width="100%" />
 
-</div>
+</p>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api?username=Burhanuddinsiddikwala&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"
+alt="GitHub Stats"
+width="49%" />
+
+<img
+src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api/top-langs/?username=Burhanuddinsiddikwala&layout=compact&hide_border=true"
+alt="Top Languages"
+width="49%" />
+
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+
 - Python
 - C
 - JavaScript
 
 ### Frontend
+
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Tailwind CSS
 
 ### Backend
+
 - Flask
 - Node.js (Learning)
 
 ### Database
+
 - SQLite
 - MongoDB (Learning)
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -54,13 +81,15 @@
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
 - 🤖 Artificial Intelligence
 - 🌐 Full-Stack Web Development
 - 🚀 Open Source Contributions
-- 💻 Building Real Projects
+- 💻 Building Production-Ready Projects
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
