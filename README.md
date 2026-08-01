@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Burhanuddin Siddikwala</h1>
+<h3 align="center">B.Tech CSE (AI) Student | AI & Full-Stack Developer | Open Source Enthusiast</h3>
 
-<!--
-**Burhanuddinsiddikwala/Burhanuddinsiddikwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Computer Science & Engineering (AI)
+- 🌱 Currently learning AI, Web Development, and System Design
+- 💡 Interested in AI Applications, Full-Stack Development, and Open Source
+- 🔭 Building practical projects and contributing to GitHub
+- 📫 Reach me: YOUR_EMAIL_HERE
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- C
+- JavaScript
+
+### Frontend
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+- Flask
+- Node.js (Learning)
+
+### Database
+- SQLite
+- MongoDB (Learning)
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+## 📌 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Web Development
+- 🚀 Open Source Contributions
+- 💻 Building Real Projects
+
+---
+
+⭐ Thanks for visiting my profile!
