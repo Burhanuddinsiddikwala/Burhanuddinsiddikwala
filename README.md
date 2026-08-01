@@ -17,9 +17,9 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api?username=Burhanuddinsiddikwala&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Burhanuddinsiddikwala&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
 
-<img width="49%" src="https://github-readme-stats-aas3u4e3v-bsiddikwala-7661s-projects.vercel.app/api/top-langs/?username=Burhanuddinsiddikwala&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhanuddinsiddikwala&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
 
 </div>
 
