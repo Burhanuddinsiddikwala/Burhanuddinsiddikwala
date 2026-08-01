@@ -11,18 +11,11 @@
 - 🔭 Building practical projects and contributing to GitHub
 - 📫 Reach me: bsiddikwala@gmail.com
   
-## 📊 GitHub Stats
+## 📊 Test
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Burhanuddinsiddikwala&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Burhanuddinsiddikwala?style=for-the-badge)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Burhanuddinsiddikwala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhanuddinsiddikwala&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+![GitHub stars](https://img.shields.io/github/stars/Burhanuddinsiddikwala?style=for-the-badge)
 ---
 
 ## 🛠 Tech Stack
