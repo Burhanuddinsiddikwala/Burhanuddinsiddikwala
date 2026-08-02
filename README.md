@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech in Computer Science & Engineering (AI)
 - 🌱 Currently learning AI, Web Development, and System Design
-- 💡 Interested in AI Applications, Full-Stack Development, and Open Source
+- 💡 Interested in AI Applications, Full-Stack Development, data analysis and Open Source
 - 🔭 Building practical projects and contributing to GitHub
 - 📫 Reach me: bsiddikwala@gmail.com
   
@@ -24,6 +24,7 @@
 - Python
 - C
 - JavaScript
+- java
 
 ### Frontend
 - React
